@@ -1,0 +1,52 @@
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:1', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='confidence', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_largest_confidence', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.872 +/- 0.009
+
+Final valid Forget: 0.098 +/- 0.012
+
+Average time is 4.000 seconds
+
+Final test Accuracy: 0.874 +/- 0.009
+
+Final test Forget: 0.093 +/- 0.011
+
+Average time is 4.000 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:1', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='confidence', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_largest_confidence', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.865 +/- 0.010
+
+Final valid Forget: 0.107 +/- 0.016
+
+Average time is 3.700 seconds
+
+Final test Accuracy: 0.869 +/- 0.009
+
+Final test Forget: 0.099 +/- 0.014
+
+Average time is 3.700 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:1', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='confidence', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_largest_confidence', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.873 +/- 0.008
+
+Final valid Forget: 0.104 +/- 0.012
+
+Average time is 3.850 seconds
+
+Final test Accuracy: 0.875 +/- 0.008
+
+Final test Forget: 0.098 +/- 0.012
+
+Average time is 3.850 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:2', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='confidence', n_runs=5, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_largest_confidence', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.864 +/- 0.019
+
+Final valid Forget: 0.116 +/- 0.024
+
+Average time is 9.800 seconds
+
+Final test Accuracy: 0.870 +/- 0.016
+
+Final test Forget: 0.104 +/- 0.018
+
+Average time is 9.800 seconds

@@ -1,0 +1,1 @@
+python gen_main.py --method rand_gen --dataset split_mnist --samples_per_task 1000 --lr 0.05 --n_runs 20 --result_dir 'MNIST' --device 'cuda:0'

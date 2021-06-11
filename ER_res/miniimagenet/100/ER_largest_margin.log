@@ -1,0 +1,13 @@
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=False, dataset='miniimagenet', device='cuda:1', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.1, mem_size=100, method='margin', n_runs=5, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=-1, simple=True, subsample=25, suffix='ER_largest_margin', unit_test=False, update_buffer_hid=1, use_conv=True, wandb_project='mir')
+
+Final valid Accuracy: 0.132 +/- 0.019
+
+Final valid Forget: 0.338 +/- 0.026
+
+Average time is 1284.400 seconds
+
+Final test Accuracy: 0.134 +/- 0.022
+
+Final test Forget: 0.334 +/- 0.027
+
+Average time is 1284.400 seconds

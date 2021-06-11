@@ -1,0 +1,39 @@
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:2', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='bayesian', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_least_bayesian', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.876 +/- 0.010
+
+Final valid Forget: 0.104 +/- 0.013
+
+Average time is 5.150 seconds
+
+Final test Accuracy: 0.876 +/- 0.010
+
+Final test Forget: 0.099 +/- 0.014
+
+Average time is 5.150 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:2', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='bayesian', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_least_bayesian', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.874 +/- 0.011
+
+Final valid Forget: 0.099 +/- 0.017
+
+Average time is 4.600 seconds
+
+Final test Accuracy: 0.877 +/- 0.012
+
+Final test Forget: 0.093 +/- 0.017
+
+Average time is 4.600 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:2', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='bayesian', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_least_bayesian', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.875 +/- 0.009
+
+Final valid Forget: 0.100 +/- 0.015
+
+Average time is 4.800 seconds
+
+Final test Accuracy: 0.877 +/- 0.009
+
+Final test Forget: 0.097 +/- 0.016
+
+Average time is 4.800 seconds

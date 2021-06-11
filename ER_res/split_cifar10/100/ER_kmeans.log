@@ -1,0 +1,49 @@
+===============================
+=------ 50 Subsamples --------=
+===============================
+
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=False, dataset='split_cifar10', device='cuda:0', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='kmeans', n_runs=15, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=-1, simple=False, subsample=50, suffix='ER_kmeans', unit_test=False, update_buffer_hid=1, use_conv=True, wandb_project='mir')
+
+Final valid Accuracy: 0.355 +/- 0.019
+
+Final valid Forget: 0.374 +/- 0.034
+
+Average time is 285.533 seconds
+
+Final test Accuracy: 0.349 +/- 0.017
+
+Final test Forget: 0.381 +/- 0.032
+
+Average time is 285.533 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=False, dataset='split_cifar10', device='cuda:0', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='kmeans', n_runs=15, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=-1, simple=False, subsample=50, suffix='ER_kmeans', unit_test=False, update_buffer_hid=1, use_conv=True, wandb_project='mir')
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=False, dataset='split_cifar10', device='cuda:0', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='kmeans', n_runs=15, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=-1, simple=False, subsample=50, suffix='ER_kmeans', unit_test=False, update_buffer_hid=1, use_conv=True, wandb_project='mir')
+
+Final valid Accuracy: 0.351 +/- 0.020
+
+Final valid Forget: 0.352 +/- 0.037
+
+Average time is 282.133 seconds
+
+Final test Accuracy: 0.349 +/- 0.020
+
+Final test Forget: 0.352 +/- 0.037
+
+Average time is 282.133 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=False, dataset='split_cifar10', device='cuda:0', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='kmeans', n_runs=15, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=-1, simple=False, subsample=50, suffix='ER_kmeans', unit_test=False, update_buffer_hid=1, use_conv=True, wandb_project='mir')
+
+Final valid Accuracy: 0.349 +/- 0.018
+
+Final valid Forget: 0.369 +/- 0.033
+
+Average time is 282.933 seconds
+
+Final test Accuracy: 0.349 +/- 0.018
+
+Final test Forget: 0.373 +/- 0.031
+
+Average time is 282.933 seconds
+
+
+===============================
+=------ XX Subsamples --------=
+===============================

@@ -1,0 +1,26 @@
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=False, dataset='miniimagenet', device='cuda:0', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.1, mem_size=100, method='rand_replay', n_runs=15, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=-1, simple=False, subsample=50, suffix='ER_rand', unit_test=False, update_buffer_hid=1, use_conv=True, wandb_project='mir')
+
+Final valid Accuracy: 0.103 +/- 0.011
+
+Final valid Forget: 0.403 +/- 0.012
+
+Average time is 1404.067 seconds
+
+Final test Accuracy: 0.107 +/- 0.010
+
+Final test Forget: 0.402 +/- 0.012
+
+Average time is 1404.067 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=False, dataset='miniimagenet', device='cuda:1', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.1, mem_size=100, method='rand_replay', n_runs=5, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=-1, simple=False, subsample=50, suffix='ER_rand', unit_test=False, update_buffer_hid=1, use_conv=True, wandb_project='mir')
+
+Final valid Accuracy: 0.098 +/- 0.007
+
+Final valid Forget: 0.404 +/- 0.016
+
+Average time is 1183.000 seconds
+
+Final test Accuracy: 0.100 +/- 0.006
+
+Final test Forget: 0.402 +/- 0.012
+
+Average time is 1183.000 seconds

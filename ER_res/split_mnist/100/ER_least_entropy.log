@@ -1,0 +1,40 @@
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:0', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='entropy', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_least_entropy', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:0', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='entropy', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_least_entropy', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.878 +/- 0.008
+
+Final valid Forget: 0.099 +/- 0.011
+
+Average time is 3.450 seconds
+
+Final test Accuracy: 0.880 +/- 0.008
+
+Final test Forget: 0.093 +/- 0.011
+
+Average time is 3.450 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:0', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='entropy', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_least_entropy', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.867 +/- 0.017
+
+Final valid Forget: 0.112 +/- 0.022
+
+Average time is 3.650 seconds
+
+Final test Accuracy: 0.868 +/- 0.017
+
+Final test Forget: 0.105 +/- 0.021
+
+Average time is 3.650 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:0', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='entropy', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=True, subsample=50, suffix='ER_least_entropy', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.870 +/- 0.016
+
+Final valid Forget: 0.108 +/- 0.020
+
+Average time is 3.900 seconds
+
+Final test Accuracy: 0.871 +/- 0.014
+
+Final test Forget: 0.101 +/- 0.019
+
+Average time is 3.900 seconds

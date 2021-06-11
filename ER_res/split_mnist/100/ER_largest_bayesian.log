@@ -1,0 +1,39 @@
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:2', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='bayesian', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=False, subsample=50, suffix='ER_largest_bayesian', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.866 +/- 0.010
+
+Final valid Forget: 0.108 +/- 0.013
+
+Average time is 5.000 seconds
+
+Final test Accuracy: 0.868 +/- 0.009
+
+Final test Forget: 0.105 +/- 0.012
+
+Average time is 5.000 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:2', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='bayesian', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=False, subsample=50, suffix='ER_largest_bayesian', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.876 +/- 0.009
+
+Final valid Forget: 0.102 +/- 0.014
+
+Average time is 4.750 seconds
+
+Final test Accuracy: 0.876 +/- 0.009
+
+Final test Forget: 0.101 +/- 0.014
+
+Average time is 4.750 seconds
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=True, dataset='split_mnist', device='cuda:2', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='bayesian', n_runs=20, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=1000, simple=False, subsample=50, suffix='ER_largest_bayesian', unit_test=False, update_buffer_hid=1, use_conv=False, wandb_project='mir')
+
+Final valid Accuracy: 0.868 +/- 0.010
+
+Final valid Forget: 0.111 +/- 0.014
+
+Average time is 5.000 seconds
+
+Final test Accuracy: 0.869 +/- 0.011
+
+Final test Forget: 0.108 +/- 0.015
+
+Average time is 5.000 seconds

@@ -1,0 +1,13 @@
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=False, dataset='openloris', device='cuda:1', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.1, mem_size=100, method='margin', n_runs=5, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=-1, simple=True, subsample=25, suffix='ER_largest_margin', unit_test=False, update_buffer_hid=1, use_conv=True, wandb_project='mir')
+
+Final valid Accuracy: 0.964 +/- 0.007
+
+Final valid Forget: 0.018 +/- 0.010
+
+Average time is 12017.400 seconds
+
+Final test Accuracy: 0.964 +/- 0.011
+
+Final test Forget: 0.018 +/- 0.010
+
+Average time is 12017.400 seconds

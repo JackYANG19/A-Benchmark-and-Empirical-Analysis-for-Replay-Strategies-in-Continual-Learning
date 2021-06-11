@@ -1,0 +1,13 @@
+Namespace(batch_size=10, buffer_batch_size=10, compare_to_old_logits=False, dataset='split_cifar10', device='cuda:2', disc_epochs=1, disc_iters=1, hardfirst=False, log='off', lr=0.05, mem_size=100, method='entropy', n_runs=15, n_tasks=-1, print_every=500, reproc=0, result_dir='Results', reuse_samples=0, samples_per_task=-1, simple=False, subsample=50, suffix='ER_largest_entropy', unit_test=False, update_buffer_hid=1, use_conv=True, wandb_project='mir')
+
+Final valid Accuracy: 0.403 +/- 0.012
+
+Final valid Forget: 0.228 +/- 0.025
+
+Average time is 183.667 seconds
+
+Final test Accuracy: 0.407 +/- 0.010
+
+Final test Forget: 0.223 +/- 0.024
+
+Average time is 183.667 seconds
